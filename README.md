@@ -1,4 +1,3 @@
-## Greetings
 # Introduction
 - MEng co-op student, Department of Electrical and Computer Engineering, University of Toronto (expected 2027)
 - Honours BSc, Mathematics and Statistics, McMaster University (2025)
